@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: REPLACE Course Title
+name: my-training-repository
+title: My Training Title
 version: 1
 nav:
 - modules/ROOT/nav.adoc
